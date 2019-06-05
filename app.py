@@ -1,7 +1,7 @@
 """Flask App Project."""
 
 from flask import Flask, jsonify
-app = Flask(__wanwadee__)
+app = Flask(__biew__)
 
 
 @app.route('/')
